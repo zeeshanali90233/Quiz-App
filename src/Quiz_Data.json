@@ -1,0 +1,61 @@
+[
+    {
+        "question-text": "Who is the president of pakistan?",
+        
+        "options":[
+            {"answerText": "Imran Khan", "isCorrected":false},
+            {"answerText": "Ch Pervez Elahi", "isCorrected":false},
+            {"answerText": "Nawaz Sharif", "isCorrected":false},
+            {"answerText": "Arif Alvi", "isCorrected":true}
+        ]
+    },
+    {
+        "question-text": "Iphone 14 launched on ",
+        
+        "options":[
+            {"answerText": "12 September 2022", "isCorrected":false},
+            {"answerText": "7 October 2022", "isCorrected":false},
+            {"answerText": "7 September 2022", "isCorrected":true},
+            {"answerText": "8 December 2021", "isCorrected":false}
+        ]
+    },
+    {
+        "question-text": "React is javascript open source",
+        
+        "options":[
+            {"answerText": "Library", "isCorrected":true},
+            {"answerText": "Component", "isCorrected":false},
+            {"answerText": "Framework", "isCorrected":false},
+            {"answerText": "Hook", "isCorrected":false}
+        ]
+    },
+    {
+        "question-text": "Signal breaking fine in pakistan is: ",
+        
+        "options":[
+            {"answerText": "Rs 100/-", "isCorrected":false},
+            {"answerText": "Rs 500/-", "isCorrected":false},
+            {"answerText": "Rs 200/-", "isCorrected":true},
+            {"answerText": "Rs 800/-", "isCorrected":false}
+        ]
+    },
+    {
+        "question-text": "According to islam, does we have freewill in fate?",
+        
+        "options":[
+            {"answerText": "Yes", "isCorrected":true},
+            {"answerText": "No", "isCorrected":false},
+            {"answerText": "Neither Yes nor No ", "isCorrected":false},
+            {"answerText": "Somehow freewill and somehow predestined", "isCorrected":false}
+        ]
+    },
+    {
+        "question-text": "Does political instability effects country economic stability?",
+        
+        "options":[
+            {"answerText": "Yes", "isCorrected":true},
+            {"answerText": "No", "isCorrected":true},
+            {"answerText": "Neither Yes nor No", "isCorrected":true}
+        ]
+    }
+]
